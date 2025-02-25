@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"33d82cc14a08a5b6","type":"file","file":"Utils/Generatori casuali.md","x":-700,"y":-840,"width":440,"height":660},
+		{"id":"e8fba5adb9f9051a","type":"file","file":"Terramare/Festa Pirati/Festa di pirati.md","x":-220,"y":-840,"width":600,"height":1140},
+		{"id":"42c9c66fc86f7a17","type":"file","file":"Utils/Screen.md","x":420,"y":-840,"width":620,"height":640},
+		{"id":"877b133d3a9dab36","type":"file","file":"Terramare/Lore/Luoghi/Atif.md","x":-700,"y":-160,"width":440,"height":460},
+		{"id":"717174e998a8f142","type":"file","file":"Terramare/Lore/Luoghi/Terramare.md","x":420,"y":-180,"width":620,"height":480}
+	],
+	"edges":[]
+}

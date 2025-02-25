@@ -1,0 +1,1 @@
+![[natsuo_kami.jpg]]

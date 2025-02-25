@@ -1,0 +1,27 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "Moloch": {
+          "x": 0,
+          "y": 0,
+          "width": 1366,
+          "height": 768,
+          "fullscreen": true,
+          "maximized": false
+        },
+        "penny": {
+          "x": 1368,
+          "y": 0,
+          "width": 960,
+          "height": 540,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}

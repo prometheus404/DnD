@@ -1,0 +1,1 @@
+![[fandal_minstrel.jpg]]

@@ -1,0 +1,4 @@
+Alcuni pirati rifiuteranno il brindisi:
+- [[Kali Blackship]] -> è incinta ma non potendolo rivelare dice vagamente che non le piacciono gli alcolici. qualcuno fa notare che aveva bevuto l'ultima volta, lei risponde che era per non sembrare scortese ma adesso che è più in confidenza non ha problemi a dirlo
+- [[Demerzel Hummin]] -> dice che non è un amante del rum da quando ha avuto una brutta sbronza e infatti sta brindando con della birra
+- [[Tortle]] -> dice di aver superato il tempo in cui faceva baldoria e ora anche una minima quantità di superalcolici gli farebbe avere dei postumi terrificanti

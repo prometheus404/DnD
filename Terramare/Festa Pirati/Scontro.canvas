@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"92c483a9294c0af3","x":-221,"y":-630,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8c26b82965f73353","type":"file","file":"Terramare/Lore/NPC/Nix occhi smeraldo.md","x":-626,"y":-303,"width":506,"height":1023},
+		{"id":"7dd2c78c449f37ef","type":"file","file":"Generico/Regole/Nascondersi.md","x":-80,"y":-303,"width":400,"height":400},
+		{"id":"88a490cb76b3a92f","type":"text","text":"nella specifica situazione, vista la grande quantità di persone, l'area è da considerarsi parzialmente oscurata. Non solo nix può nascondersi durante il combattimento per questa ragione (e visto che è un cangiante) ma i giocatori avranno anche svantaggio ai tiri per colpire.\n","x":160,"y":-620,"width":385,"height":217},
+		{"id":"d02fb3e735bbd737","type":"text","text":"Quando Nix viene cercato, se cercano di trovarlo in base a un tratto distintivo del suo volto avranno un -3 al tiro per trovarlo.\nQuando vine trovato ricorda di dire che lo riconoscono per i vestiti/ che all'inizio fanno fatica a riconoscerlo in volto/ altro","x":500,"y":-341,"width":360,"height":238}
+	],
+	"edges":[
+		{"id":"6d7d8ce528dfeddb","fromNode":"7dd2c78c449f37ef","fromSide":"right","toNode":"88a490cb76b3a92f","toSide":"bottom"},
+		{"id":"0ee957c7b746bb2d","fromNode":"7dd2c78c449f37ef","fromSide":"right","toNode":"d02fb3e735bbd737","toSide":"left"}
+	]
+}

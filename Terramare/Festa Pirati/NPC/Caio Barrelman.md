@@ -1,0 +1,3 @@
+![[Caio1.jpg]]
+Gestisce la distilleria di Rhum Caiald (il nome è palesemente l'unione delle iniziali del suo nome e del nome del figlio.
+È un omino piccolo, ma un tempo molto più alto, con occhialoni a fondo di bottiglia. Ha un fare simpatico e molto disponibile nei confronti dei giocatori. È molto vecchio e con una pessima memoria. Parla tantissimo e se non viene fermato continua a ruota libera a parlare di cose della sua vita con tono monotono e noioso.

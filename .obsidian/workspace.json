@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "0b3b46f684bb51be",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a25e31d5fbfd3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6baa5ca9822074a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terramare/Lore/NPC/Senzavolto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Senzavolto"
+            }
+          },
+          {
+            "id": "d37f9f8b05266d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8fad326ac461943",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2473c6372948753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04714d1fcfa7dd35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "479bb08ffc3c7eeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3295b450bbafe8e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "a50e8717e91da6c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cebf1d2d2788817",
+        "type": "tabs",
+        "dimension": 69.64285714285714,
+        "children": [
+          {
+            "id": "0d92a35d76e8ae44",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6578f435c1c11d8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Terramare/Festa Pirati/Luoghi/distilleria Caiald.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for distilleria Caiald"
+            }
+          },
+          {
+            "id": "75dce4960a8d04b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Terramare/Festa Pirati/Luoghi/distilleria Caiald.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from distilleria Caiald"
+            }
+          },
+          {
+            "id": "47d22eb42662a36c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e92a527159c4a775",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Terramare/Festa Pirati/Luoghi/distilleria Caiald.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of distilleria Caiald"
+            }
+          },
+          {
+            "id": "ea33ad08a3645f09",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4ef19d2741f14e08",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "52f22613edbdc5de",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "416f717bdfc97452",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "020684cdb01e0a77",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      },
+      {
+        "id": "32a8fa9f3e5f17b8",
+        "type": "tabs",
+        "dimension": 30.357142857142854,
+        "children": [
+          {
+            "id": "d7358950e8ff3a19",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "d37f9f8b05266d59",
+  "lastOpenFiles": [
+    "Terramare/Festa Pirati/Indizi/conoscono la ragazza.md",
+    "Terramare/Lore/NPC/Demerzel Hummin.md",
+    "Terramare/Lore/NPC/Senzavolto.md",
+    "Terramare/Lore/NPC/gregory justus.md",
+    "Terramare/Lore/Panama.md",
+    "Terramare/Lore/Img/senzavolto.jpg",
+    "Terramare/Lore/Luoghi/Nagaki.md",
+    "Terramare/Lore/Luoghi/Daneel.md",
+    "Terramare/Lore/Luoghi/Terramare.md",
+    "Terramare/Lore/Img/Nagaki2.jpg",
+    "Terramare/Lore/Img/Nagaki.jpg",
+    "README.md",
+    "Terramare/Lore/NPC/Momo.md",
+    "Terramare/Festa Pirati/Festa di pirati.md",
+    "Terramare/Festa Pirati/Scontro.canvas",
+    "Terramare/Lore/NPC/Sean Sluggish.md",
+    "Terramare/Lore/NPC/Aldo Barrelman.md",
+    "Terramare/Lore/NPC/Tortle.md",
+    "Terramare/Lore/NPC/Nix occhi smeraldo.md",
+    "Terramare/Lore/Avvenimenti/Esplosione a Nagaka.md",
+    "Terramare/Lore/NPC/Kali Blackship.md",
+    "Terramare/Lore/Avvenimenti",
+    "Master Screen.canvas",
+    "Generico/Regole/Cercare.md",
+    "Terramare/Festa Pirati/Img/Velde.png",
+    "Terramare/Lore/Img/natsuo_kami.jpg",
+    "Terramare/Lore/Img/Momo.jpg",
+    "Terramare/Lore/Img/Sean_Sluggish.jpg",
+    "Terramare/Festa Pirati/Img/titti_parage.jpg",
+    "Terramare/Festa Pirati/Img/Samantha.jpg",
+    "Terramare/Festa Pirati/Img/ragazza.jpg",
+    "Terramare/Lore/Malavia.md",
+    "Terramare/Lore/NPC/Natsuo kami.md",
+    "Terramare/Lore/NPC/Capitano Darak.md",
+    "Terramare/Lore/NPC/Amanda Steel-heart.md",
+    "Terramare/Festa Pirati/Luoghi/distilleria Caiald.md",
+    "Terramare/Festa Pirati/Luoghi/Velde.md",
+    "Generico/Enigmi/topi e botti avvelenate.md",
+    "Generico/Enigmi/password dimenticata.md",
+    "Terramare/Lore/NPC",
+    "Terramare/Festa Pirati/Indizi/indizi.canvas",
+    "Generico/Regole"
+  ]
+}

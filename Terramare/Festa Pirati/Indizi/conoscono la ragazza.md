@@ -1,0 +1,4 @@
+interrogando le ciurme dei pirati
+- il [[Baltog|mozzo di Demerzel]] dice che ha paura di essere sostituito definitivamente e perdere anche il ruolo di mozzo perchè ha visto il suo capo parlare con una giovane ragazza che voleva entrare nella ciurma qualche sera prima
+- [[Titti Parage]] se interrogato su una ragazzina riferirà che ha visto [[Sean Sluggish]] parlare con una ragazzina simile a quella descritta -> sean ha rifiutato la ragazza perchè non pensa ci sia spazio nella sua ciurma per una donna
+- [[Natsuo kami]] alla descrizione si mostrerà preoccupato, fingerà (male) di non saperne nulla, chiederà altre informazioni e alla fine del discorso andrà a riferire tutto a [[Kali Blackship]], che a sua volta si mostrerà abbastanza preoccupata. -> Kali ha rifiutato la ragazza perchè lei ha subito sulla sua pelle il pericolo di questo tipo di vita e non vuole che una ragazza così giovane rischi così tanto come ha rischiato lei.

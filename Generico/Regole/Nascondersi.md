@@ -1,0 +1,4 @@
+È il DM a decidere le circostanze in cui è possibile nascondersi.
+Quando un personaggio cerca di nascondersi, effettua una prova di Destrezza(Furtività). Finchè non viene scoperto o smette di nascondersi il totale di quella prova è contrapposto all aprova di Saggezza(percezione) di qualsiasi creatura che cerchi **attivamente** un seglo della presenza del personaggio.
+
+In combattimento, la maggior parte delle creature rimane in allerta nei confronti di qualsiasi segno di pericolo, quindi se un personaggio abbandona il suo nascondiglio e si avvicina a una creatura, solitamente viene notato da essa. In alcune circostanze il DM può consentire al personaggio di rimanere nascorsto se si avvicina a una creatura distratta, fornendogli vantaggio a un tiro per colpire prima di essere visto

@@ -1,0 +1,316 @@
+{
+  "monsters": [
+    [
+      "Flail Snail",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Flail Snail",
+        "source": [
+          "MPMM",
+          "Volo's Guide to Monsters"
+        ],
+        "type": "elemental",
+        "size": "Large",
+        "alignment": "unaligned",
+        "hp": 52,
+        "hit_dice": "5d10 + 25",
+        "ac": "16 (natural armor)",
+        "speed": "10 ft.",
+        "stats": [
+          17,
+          5,
+          20,
+          3,
+          10,
+          5
+        ],
+        "damage_immunities": "fire, poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "poisoned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10",
+        "languages": "",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Antimagic Shell",
+            "desc": "The snail has advantage on saving throws against spells, and any creature making a spell attack against the snail has disadvantage on the attack roll.\nIf the snail succeeds on its saving throw against a spell or a spell's attack roll misses it, the snail's shell converts some of the spell's energy into a burst of destructive force if the spell is of 1st level or higher; each creature within 30 feet of the snail must make a 15 Constitution saving throw, taking 3 (1d6) force damage per level of the spell on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The snail makes five Flail Tentacle attacks."
+          },
+          {
+            "name": "Flail Tentacle",
+            "desc": "Melee Weapon Attack +5 to hit, reach 10 ft., one target. 5 (1d4 + 3) bludgeoning damage."
+          },
+          {
+            "name": "Scintillating Shell (Recharges after a Short or Long Rest)",
+            "desc": "The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a 15 Wisdom saving throw or be stunned until the light ends."
+          },
+          {
+            "name": "Shell Defense",
+            "desc": "The flail snail withdraws into its shell. Until it emerges, it gains a +4 bonus to its AC and is restrained. It can emerge from its shell as a bonus action on its turn."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Ogre Battering Ram",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Ogre Battering Ram",
+        "source": [
+          "MPMM",
+          "Mordenkainen's Tome of Foes"
+        ],
+        "type": "giant",
+        "size": "Large",
+        "alignment": "chaotic evil",
+        "hp": 76,
+        "hit_dice": "9d10 + 27",
+        "ac": "11 (hide armor)",
+        "speed": "40 ft.",
+        "stats": [
+          19,
+          8,
+          16,
+          5,
+          7,
+          7
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft., passive Perception 8",
+        "languages": "Common, Giant",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Siege Monster",
+            "desc": "The ogre deals double damage to objects and structures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The ogre makes two Bash attacks."
+          },
+          {
+            "name": "Bash",
+            "desc": "Melee Weapon Attack +6 to hit, reach 5 ft., one target. 15 (2d10 + 4) bludgeoning damage, and the ogre can push the target 5 feet away if the target is Huge or smaller."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [
+          {
+            "name": "Block the Path",
+            "desc": "When a creature enters a space within 5 feet of the ogre, the ogre makes a Bash attack against that creature. If the attack hits, the target's speed is reduced to 0 until the start of the ogre's next turn."
+          }
+        ],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Spined Devil",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Spined Devil",
+        "source": [
+          "Monster Manual",
+          "Tomb of Annihilation",
+          "Waterdeep: Dragon Heist",
+          "Baldur's Gate: Descent Into Avernus",
+          "KftGV",
+          "Plane Shift: Innistrad",
+          "CoA"
+        ],
+        "type": "fiend",
+        "subtype": "devil",
+        "size": "Small",
+        "alignment": "lawful evil",
+        "hp": 22,
+        "hit_dice": "5d6 + 5",
+        "ac": "13 (natural armor)",
+        "speed": "20 ft., fly 40 ft.",
+        "stats": [
+          10,
+          15,
+          12,
+          11,
+          14,
+          8
+        ],
+        "damage_immunities": "fire, poison",
+        "damage_resistances": "cold, bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "poisoned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 120 ft., passive Perception 12",
+        "languages": "Infernal, telepathy 120 ft.",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Devil's Sight",
+            "desc": "Magical darkness doesn't impede the devil's darkvision."
+          },
+          {
+            "name": "Flyby",
+            "desc": "The devil doesn't provoke an opportunity attack when it flies out of an enemy's reach."
+          },
+          {
+            "name": "Limited Spines",
+            "desc": "The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The devil has advantage on saving throws against spells and other magical effects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The devil makes two attacks: one with its bite and one with its fork or two with its tail spines."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +2 to hit, reach 5 ft., one target. 5 (2d4) slashing damage."
+          },
+          {
+            "name": "Fork",
+            "desc": "Melee Weapon Attack +2 to hit, reach 5 ft., one target. 3 (1d6) piercing damage."
+          },
+          {
+            "name": "Tail Spine",
+            "desc": "Ranged Weapon Attack +4 to hit, range 20/80 ft., one target. 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Giff",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Giff",
+        "source": [
+          "MPMM",
+          "Mordenkainen's Tome of Foes",
+          "SjA"
+        ],
+        "type": "humanoid",
+        "size": "Medium",
+        "alignment": "any alignment",
+        "hp": 60,
+        "hit_dice": "8d8 + 24",
+        "ac": "16 (breastplate)",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          14,
+          17,
+          11,
+          12,
+          12
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "passive Perception 11",
+        "languages": "Common",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Firearms Knowledge",
+            "desc": "The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols."
+          },
+          {
+            "name": "Headfirst Charge",
+            "desc": "The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line and ends within 5 feet of a Large or smaller creature, that creature must succeed on a 14 Strength saving throw or take 7 (2d6) bludgeoning damage and be knocked prone."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The giff makes two Longsword, Musket, or Pistol attacks."
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack +6 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
+          },
+          {
+            "name": "Musket",
+            "desc": "Ranged Weapon Attack +4 to hit, range 40/120 ft., one target. 8 (1d12 + 2) piercing damage."
+          },
+          {
+            "name": "Pistol",
+            "desc": "Ranged Weapon Attack +4 to hit, range 30/90 ft., one target. 7 (1d10 + 2) piercing damage."
+          },
+          {
+            "name": "Fragmentation Grenade (1/Day)",
+            "desc": "The giff throws a grenade up to 60 feet, and the grenade explodes in a 20-foot-radius sphere. Each creature in that area must make a 15 Dexterity saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 8,
+    "patch": 1
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}
