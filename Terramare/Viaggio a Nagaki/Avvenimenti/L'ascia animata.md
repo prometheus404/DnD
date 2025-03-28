@@ -1,1 +1,1 @@
-Entrando in Nagaki, ai giocatori viene 
+l'ascia di [[Curio Dentato]], improvvisamente prende vita e diventa uno tsukumogami
