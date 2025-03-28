@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terramare/Viaggio a Nagaki/Prima sessione.md",
+                "file": "Terramare/Viaggio a Nagaki/Avvenimenti/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prima sessione"
+              "title": "Untitled"
             }
           }
         ],
@@ -263,8 +263,12 @@
   },
   "active": "d37f9f8b05266d59",
   "lastOpenFiles": [
-    "Terramare/Viaggio a Nagaki/Untitled 1.md",
     "Terramare/Viaggio a Nagaki/Prima sessione.md",
+    "Terramare/Viaggio a Nagaki/Avvenimenti/Untitled.md",
+    "Terramare/Viaggio a Nagaki/Avvenimenti/Untitled",
+    "Terramare/Viaggio a Nagaki/Avvenimenti",
+    "Terramare/Viaggio a Nagaki/Untitled.md",
+    "Terramare/Viaggio a Nagaki/Untitled 1.md",
     "Terramare/Viaggio a Nagaki",
     "Terramare/Lore/Luoghi/Nagaki.md",
     "Terramare/Lore/Luoghi/Atif.md",
@@ -301,8 +305,6 @@
     "Terramare/Lore/Malavia.md",
     "Terramare/Lore/NPC/Natsuo kami.md",
     "Terramare/Lore/NPC/Capitano Darak.md",
-    "Terramare/Lore/NPC/Amanda Steel-heart.md",
-    "Terramare/Festa Pirati/Luoghi/distilleria Caiald.md",
     "Terramare/Lore/NPC",
     "Terramare/Festa Pirati/Indizi/indizi.canvas",
     "Generico/Regole"
