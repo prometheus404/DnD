@@ -1,0 +1,1 @@
+Entrando in Nagaki, ai giocatori viene 
