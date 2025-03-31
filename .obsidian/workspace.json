@@ -25,14 +25,10 @@
             "id": "d37f9f8b05266d59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terramare/Viaggio a Nagaki/Avvenimenti/Viaggio nel mondo dei sogni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Viaggio nel mondo dei sogni"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -263,13 +259,10 @@
   },
   "active": "d37f9f8b05266d59",
   "lastOpenFiles": [
-    "Terramare/Viaggio a Nagaki/Avvenimenti/L'ascia animata.md",
-    "Terramare/Viaggio a Nagaki/Avvenimenti/Viaggio nel mondo dei sogni.md",
     "Terramare/Viaggio a Nagaki/Prima sessione.md",
-    "Terramare/Viaggio a Nagaki/Avvenimenti/Untitled",
+    "Terramare/Viaggio a Nagaki/Avvenimenti/Viaggio nel mondo dei sogni.md",
+    "Terramare/Viaggio a Nagaki/Avvenimenti/L'ascia animata.md",
     "Terramare/Viaggio a Nagaki/Avvenimenti",
-    "Terramare/Viaggio a Nagaki/Untitled.md",
-    "Terramare/Viaggio a Nagaki/Untitled 1.md",
     "Terramare/Viaggio a Nagaki",
     "Terramare/Lore/Luoghi/Nagaki.md",
     "Terramare/Lore/Luoghi/Atif.md",
@@ -305,6 +298,8 @@
     "Terramare/Festa Pirati/Img/ragazza.jpg",
     "Terramare/Lore/Malavia.md",
     "Terramare/Lore/NPC/Natsuo kami.md",
+    "Terramare/Lore/NPC/Capitano Darak.md",
+    "Terramare/Lore/NPC/Amanda Steel-heart.md",
     "Terramare/Lore/NPC",
     "Terramare/Festa Pirati/Indizi/indizi.canvas",
     "Generico/Regole"
